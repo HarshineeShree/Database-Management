@@ -31,7 +31,7 @@ Welcome to the **Database Management** repository! This project is all about mas
 
 ### Installation
 Clone this repository to your local machine:
-git clone https://github.com/haroontrailblazer/Database-Management.git
+git clone https://github.com/harshineeshree/Database-Management.git
 cd Database-Management
 --
 Usage
