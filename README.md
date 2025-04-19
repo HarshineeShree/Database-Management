@@ -43,7 +43,7 @@ Contributions are welcome! Feel free to fork this repository, add your improveme
 📬 Contact
 For any questions or suggestions, feel free to reach out:
 
-Email: haroonint144@gmail.com
+Email: harshineeshreeg@gmail.com
 
 GitHub: @haroontrailblazer
 
